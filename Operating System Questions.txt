@@ -1,0 +1,2006 @@
+
+
+ OPERATING SYSTEM :
+------------------------------------------------------------------------------
+
+ 1. Operating System Concepts and their Types
+ 2. Processes
+ 3. Memory management
+ 4. Process Synchronization
+ 5. Job Scheduling and Scheduling algorithms
+ 6. Virtual Memory
+ 7. File Management
+ 8. I/O Hardware
+ 9. Multithreading 
+ 10. Deadlocks
+ 11. Protection and Security
+ 12. History of Operating Systems
+ 13. Examples of Operating Systems
+ 14. Components of Operating Systems
+ 15. Real-time Operating Systems
+ 16. Operating System Development as a Hobby
+ 17. Diversity of Operating Systems and Portability
+ 18. Market Share
+_____________________________________________________________________________
+
+1. <<<<<< OPERATING SYSTEM CONCEPTS and Their Types >>>>>>>
+    * Types of Operating Systems :
+
+      (A) Single-tasking and multi-tasking 
+      (B) Single- and multi-user
+      (C) Distributed
+      (D) Templated
+      (E) Embedded
+      (F) Real-time
+      (G) Library
+
+________________________________________________
+ Operating System Concepts and their Types      |
+                                                |                  
+________________________________________________|
+            |
+            |
+
+1) What's the Heading ?
+-----------------------
+* Operating System Concepts and their Types 
+                                                                                        
+2) Definition of Operating System Concepts and their Types ?
+------------------------------------------------------------
+*
+ 
+3) What is Operating System Concepts and their Types About ?
+------------------------------------------------------------
+*
+*
+
+4) What does Operating System Concepts and their Types Do ?
+-----------------------------------------------------------
+*
+*
+
+5) Advantages/Benefits of Operating System Concepts and their Types :
+---------------------------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Operating System Concepts and their Types :
+------------------------------------------------------------------------
+*
+*
+*  
+
+7) Examples of Operating System Concepts and their Types :
+----------------------------------------------------------
+*
+* 
+_____________________________________________________________________________
+
+2. <<<<<<< PROCESSES >>>>>>>>
+________________________________________________
+ Processes                                      |
+                                                |                  
+________________________________________________|
+            |
+            |
+
+1) What's the Heading ?
+-----------------------
+* Processes 
+                                                                                        
+2) Definition of Processes ?
+----------------------------
+*
+ 
+3) What is Processes About ?
+----------------------------
+*
+*
+
+4) What does Processes Do ?
+---------------------------
+*
+*
+
+5) Advantages/Benefits of Processes :
+-------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Processes :
+----------------------------------------
+*
+*
+*  
+
+7) Examples of Processes :
+--------------------------
+*
+*
+___________________________________________________________________________________
+
+3. <<<<< MEMORY MANAGEMENT >>>>>>
+________________________________________________
+ Memory management                              |
+                                                |                  
+________________________________________________|
+            |
+            |
+
+1) What's the Heading ?
+-----------------------
+* Memory management 
+                                                                                        
+2) Definition of Memory management ?
+------------------------------------
+*
+ 
+3) What is Memory management About ?
+------------------------------------
+*
+*
+
+4) What does Memory management Do ?
+-----------------------------------
+*
+*
+
+5) Advantages/Benefits of Memory management :
+---------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Memory management :
+------------------------------------------------
+*
+*
+*  
+
+7) Examples of Memory management :
+----------------------------------
+*
+*
+__________________________________________________________________________________
+
+
+4. <<<<<< PROCESS SYNCHRONIZATION >>>>>>>
+________________________________________________
+ Process Synchronization                        |
+                                                |                  
+________________________________________________|
+            |
+            |
+
+1) What's the Heading ?
+-----------------------
+* Process Synchronization 
+                                                                                        
+2) Definition of Process Synchronization ?
+------------------------------------------
+*
+ 
+3) What is Process Synchronization About ?
+------------------------------------------
+*
+*
+
+4) What does Process Synchronization Do ?
+-----------------------------------------
+*
+*
+
+5) Advantages/Benefits of Process Synchronization :
+---------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Process Synchronization :
+------------------------------------------------------
+*
+*
+*  
+
+7) Examples of Process Synchronization :
+----------------------------------------
+*
+*
+_________________________________________________________________________________ 
+
+5. <<<<<< JOB SCHEDULING and SCHEDULING ALGORITHMS >>>>>>>
+________________________________________________
+ Job Scheduling and Scheduling algorithms       |
+                                                |                  
+________________________________________________|
+            |
+            |
+
+1) What's the Heading ?
+-----------------------
+* Job Scheduling and Scheduling algorithms 
+                                                                                        
+2) Definition of Job Scheduling and Scheduling algorithms ?
+-----------------------------------------------------------
+*
+ 
+3) What is Job Scheduling and Scheduling algorithms About ?
+-----------------------------------------------------------
+*
+*
+
+4) What does Job Scheduling and Scheduling algorithms Do ?
+----------------------------------------------------------
+*
+*
+
+5) Advantages/Benefits of Job Scheduling and Scheduling algorithms :
+--------------------------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Job Scheduling and Scheduling algorithms :
+-----------------------------------------------------------------------
+*
+*
+*  
+
+7) Examples of Job Scheduling and Scheduling algorithms :
+---------------------------------------------------------
+*
+* 
+_____________________________________________________________________________
+
+6. <<<<<<< VIRTUAL MEMORY >>>>>>>>
+________________________________________________
+ Virtual Memory                                 |
+                                                |                  
+________________________________________________|
+            |
+            |
+
+1) What's the Heading ?
+-----------------------
+* Virtual Memory 
+                                                                                        
+2) Definition of Virtual Memory ?
+---------------------------------
+*
+ 
+3) What is Virtual Memory About ?
+---------------------------------
+*
+*
+
+4) What does Virtual Memory Do ?
+--------------------------------
+*
+*
+
+5) Advantages/Benefits of Virtual Memory :
+------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Virtual Memory :
+---------------------------------------------
+*
+*
+*  
+
+7) Examples of Virtual Memory :
+-------------------------------
+*
+*
+___________________________________________________________________________________
+
+7. <<<<< FILE MANAGEMENT >>>>>>
+________________________________________________
+ File Management                                |
+                                                |                  
+________________________________________________|
+            |
+            |
+
+1) What's the Heading ?
+-----------------------
+* File Management 
+                                                                                        
+2) Definition of File Management ?
+----------------------------------
+*
+ 
+3) What is File Management About ?
+----------------------------------
+*
+*
+
+4) What does File Management Do ?
+---------------------------------
+*
+*
+
+5) Advantages/Benefits of File Management :
+-------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of File Management :
+----------------------------------------------
+*
+*
+*  
+
+7) Examples of File Management :
+--------------------------------
+*
+*
+__________________________________________________________________________________
+
+
+8. <<<<<< I/O HARDWARE >>>>>>>
+________________________________________________
+ I/O Hardware                                   |
+                                                |                  
+________________________________________________|
+            |
+            |
+
+1) What's the Heading ?
+-----------------------
+* I/O Hardware 
+                                                                                        
+2) Definition of I/O Hardware ?
+-------------------------------
+*
+ 
+3) What is I/O Hardware About ?
+-------------------------------
+*
+*
+
+4) What does I/O Hardware Do ?
+------------------------------
+*
+*
+
+5) Advantages/Benefits of I/O Hardware :
+----------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of I/O Hardware :
+-------------------------------------------
+*
+*
+*  
+
+7) Examples of I/O Hardware :
+-----------------------------
+*
+*
+_________________________________________________________________________________ 
+
+9. <<<<<< Multithreading  >>>>>>>
+________________________________________________
+ Multithreading                                 |
+                                                |                  
+________________________________________________|
+            |
+            |
+
+1) What's the Heading ?
+-----------------------
+* Multithreading  
+                                                                                        
+2) Definition of Multithreading  ?
+----------------------------------
+*
+ 
+3) What is Multithreading  About ?
+----------------------------------
+*
+*
+
+4) What does Multithreading  Do ?
+---------------------------------
+*   
+* 
+
+5) Advantages/Benefits of Multithreading  :
+-------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Multithreading  :
+----------------------------------------------
+*
+*
+*  
+
+7) Examples of Multithreading  :
+--------------------------------
+*
+* 
+_____________________________________________________________________________
+
+10. <<<<<<< DEADLOCKS >>>>>>>>
+________________________________________________
+  Deadlocks                                     |
+                                                |                  
+________________________________________________|
+            |
+            |
+
+1) What's the Heading ?
+-----------------------
+* Deadlocks 
+                                                                                        
+2) Definition of Deadlocks ?
+----------------------------
+*
+ 
+3) What is Deadlocks About ?
+----------------------------
+*
+*
+
+4) What does Deadlocks Do ?
+---------------------------
+*
+*
+
+5) Advantages/Benefits of Deadlocks :
+-------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Deadlocks :
+----------------------------------------
+*
+*
+*  
+
+7) Examples of Deadlocks :
+--------------------------
+*
+*
+___________________________________________________________________________________
+
+11. <<<<< PROTECTION and SECURITY >>>>>>
+________________________________________________
+ Protection and Security                        |
+                                                |                  
+________________________________________________|
+            |
+            |
+
+1) What's the Heading ?
+-----------------------
+* Protection and Security 
+                                                                                        
+2) Definition of Protection and Security ?
+------------------------------------------
+*
+ 
+3) What is Protection and Security About ?
+------------------------------------------
+*
+*
+
+4) What does Protection and Security Do ?
+-----------------------------------------
+*
+*
+
+5) Advantages/Benefits of Protection and Security :
+---------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Protection and Security :
+------------------------------------------------------
+*
+*
+*  
+
+7) Examples of Protection and Security :
+----------------------------------------
+*
+*
+__________________________________________________________________________________
+
+12. <<<<<<< HISTORY of OPERATING SYSTEMS >>>>>>>>
+
++ (A) Mainframes
++ (B) Microcomputers
+________________________________________________
+ History of Operating Systems                   |
+                                                |                  
+________________________________________________|
+            |
+            |
+
+1) What's the Heading ?
+-----------------------
+* History of Operating Systems 
+                                                                                        
+2) Definition of History of Operating Systems ?
+-----------------------------------------------
+*
+ 
+3) What is History of Operating Systems About ?
+-----------------------------------------------
+*
+*
+
+4) What does History of Operating Systems Do ?
+----------------------------------------------
+*
+*
+
+5) Advantages/Benefits of History of Operating Systems :
+--------------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of History of Operating Systems :
+-----------------------------------------------------------
+*
+*
+*  
+
+7) Examples of History of Operating Systems :
+---------------------------------------------
+*
+*
+___________________________________________________________________________________
+
+(A) \\\\ Mainframes ////
+________________________________________________
+ Mainframes                                     |
+                                                |                  
+________________________________________________|
+            |
+            |
+
+1) What's the Heading ?
+-----------------------
+* Mainframes 
+                                                                                        
+2) Definition of Mainframes ?
+-----------------------------
+*
+ 
+3) What is Mainframes About ?
+-----------------------------
+*
+*
+
+4) What does Mainframes Do ?
+----------------------------
+*
+*
+
+5) Advantages/Benefits of Mainframes :
+--------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Mainframes :
+-----------------------------------------
+*
+*
+*  
+
+7) Examples of Mainframes :
+---------------------------
+*
+*
+__________________________________________________________________________________
+
+
+(B) \\\\ Microcomputers ////
+________________________________________________
+ Microcomputers                                 |
+                                                |                  
+________________________________________________|
+            |
+            |
+
+1) What's the Heading ?
+-----------------------
+* Microcomputers 
+                                                                                        
+2) Definition of Microcomputers ?
+---------------------------------
+*
+ 
+3) What is Microcomputers About ?
+---------------------------------
+*
+*
+
+4) What does Microcomputers Do ?
+--------------------------------
+*
+*
+
+5) Advantages/Benefits of Microcomputers :
+------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Microcomputers :
+---------------------------------------------
+*
+*
+*  
+
+7) Examples of Microcomputers :
+-------------------------------
+*
+*
+_________________________________________________________________________________ 
+
+13. <<<<<< EXAMPLES of OPERATING SYSTEMS >>>>>>>
+   + Unix and Unix-like Operating Systems :
+     (A) BSD and its descendants
+     (B) macOS
+     (C) z/OS UNIX System Services
+     (D) Linux
+ 
+  + Microsoft Windows
+  + Other
+________________________________________________
+ Examples of Operating Systems                  |
+                                                |                  
+________________________________________________|
+            |
+            |
+
+1) What's the Heading ?
+-----------------------
+* Examples of Operating Systems 
+                                                                                        
+2) Definition of Examples of Operating Systems ?
+------------------------------------------------
+*
+ 
+3) What is Examples of Operating Systems About ?
+------------------------------------------------
+*
+*
+
+4) What does Examples of Operating Systems Do ?
+-----------------------------------------------
+*
+*
+
+5) Advantages/Benefits of Examples of Operating Systems :
+---------------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Examples of Operating Systems :
+------------------------------------------------------------
+*
+*
+*  
+
+7) Examples of Operating Systems :
+----------------------------------
+*
+* 
+_____________________________________________________________________________
+
++ ******** Unix and Unix-like Operating Systems *********
+    
+    (A) BSD and its descendants
+    (B) macOS
+    (C) z/OS UNIX System Services
+    (D) Linux
+________________________________________________
+ Unix and Unix-like Operating Systems           |
+                                                |                  
+________________________________________________|
+            |
+            |
+
+1) What's the Heading ?
+-----------------------
+* Unix and Unix-like Operating Systems 
+                                                                                        
+2) Definition of Unix and Unix-like Operating Systems ?
+-------------------------------------------------------
+*
+ 
+3) What is Unix and Unix-like Operating Systems About ?
+-------------------------------------------------------
+*
+*
+
+4) What does Unix and Unix-like Operating Systems Do ?
+------------------------------------------------------
+*
+*
+
+5) Advantages/Benefits of Unix and Unix-like Operating Systems :
+----------------------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Unix and Unix-like Operating Systems :
+-------------------------------------------------------------------
+*
+*
+*  
+
+7) Examples of Unix and Unix-like Operating Systems :
+-----------------------------------------------------
+*
+*
+________________________________________________________________________________
+
+(A) \\\\ BSD and its descendants ////
+________________________________________________
+ BSD and its descendants                        |
+                                                |                  
+________________________________________________|
+            |
+            |
+
+1) What's the Heading ?
+-----------------------
+* BSD and its descendants 
+                                                                                        
+2) Definition of BSD and its descendants ?
+------------------------------------------
+*
+ 
+3) What is BSD and its descendants About ?
+------------------------------------------
+*
+*
+
+4) What does BSD and its descendants Do ?
+-----------------------------------------
+*
+*
+
+5) Advantages/Benefits of BSD and its descendants :
+---------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of BSD and its descendants :
+------------------------------------------------------
+*
+*
+*  
+
+7) Examples of BSD and its descendants :
+----------------------------------------
+*
+*
+__________________________________________________________________________________
+
+
+(B) \\\\ macOS ////
+________________________________________________
+ macOS                                          |
+                                                |                  
+________________________________________________|
+            |
+            |
+
+1) What's the Heading ?
+-----------------------
+* macOS 
+                                                                                        
+2) Definition of macOS ?
+------------------------
+*
+ 
+3) What is macOS About ?
+------------------------
+*
+*
+
+4) What does macOS Do ?
+-----------------------
+*
+*
+
+5) Advantages/Benefits of macOS :
+---------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of macOS :
+------------------------------------
+*
+*
+*  
+
+7) Examples of macOS :
+----------------------
+*
+*
+_________________________________________________________________________________ 
+
+(C) \\\\ z/OS UNIX System Services ////
+________________________________________________
+ z/OS UNIX System Services                      |
+                                                |                  
+________________________________________________|
+            |
+            |
+
+1) What's the Heading ?
+-----------------------
+* z/OS UNIX System Services 
+                                                                                        
+2) Definition of z/OS UNIX System Services ?
+--------------------------------------------
+*
+ 
+3) What is z/OS UNIX System Services About ?
+--------------------------------------------
+*
+*
+
+4) What does z/OS UNIX System Services Do ?
+-------------------------------------------
+*
+*
+
+5) Advantages/Benefits of z/OS UNIX System Services :
+-----------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of z/OS UNIX System Services :
+--------------------------------------------------------
+*
+*
+*  
+
+7) Examples of z/OS UNIX System Services :
+------------------------------------------
+*
+*
+__________________________________________________________________________________
+
+
+(D) \\\\ Linux ////
+________________________________________________
+ Linux                                          |
+                                                |                  
+________________________________________________|
+            |
+            |
+
+1) What's the Heading ?
+-----------------------
+* Linux 
+                                                                                        
+2) Definition of Linux ?
+------------------------
+*
+ 
+3) What is Linux About ?
+------------------------
+*
+*
+
+4) What does Linux Do ?
+-----------------------
+*
+*
+
+5) Advantages/Benefits of Linux :
+---------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Linux :
+------------------------------------
+*
+*
+*  
+
+7) Examples of Linux :
+----------------------
+*
+*
+_________________________________________________________________________________ 
+
+14. <<<<<<< COMPONENTS of OPERATING SYSTEMS >>>>>>>>
+
+   + Kernel
+     (A) Program Execution
+     (B) Interrupts :
+         * Software interrupt
+         * Signal
+         * Hardware interrupt :
+           - Interrupt-driven I/O
+           - Direct Memory Access
+           - DMA on the device
+     (C) Modes
+     (D) Memory Management
+     (E) Virtual Memory 
+     (F) Multitasking
+     (G) Disk access and File Systems
+     (H) Device drivers
+
+  + Networking
+  + Security
+  + User Interface :
+    (A) Graphical User Interfaces
+________________________________________________
+ Components of Operating Systems                |
+                                                |                  
+________________________________________________|
+            |
+            |
+
+1) What's the Heading ?
+-----------------------
+* Components of Operating Systems 
+                                                                                        
+2) Definition of Components of Operating Systems ?
+--------------------------------------------------
+*
+ 
+3) What is Components of Operating Systems About ?
+--------------------------------------------------
+*
+*
+
+4) What does Components of Operating Systems Do ?
+-------------------------------------------------
+*
+*
+
+5) Advantages/Benefits of Components of Operating Systems :
+-----------------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Components of Operating Systems :
+--------------------------------------------------------------
+*
+*
+*  
+
+7) Examples of Components of Operating Systems :
+------------------------------------------------
+*
+*
+___________________________________________________________________________________
+
+  ******* Kernal ********
+ 
+     (A) Program Execution
+     (B) Interrupts :
+         * Software interrupt
+         * Signal
+         * Hardware interrupt :
+           - Interrupt-driven I/O
+           - Direct Memory Access
+           - DMA on the device
+     (C) Modes
+     (D) Memory Management
+     (E) Virtual Memory 
+     (F) Multitasking
+     (G) Disk access and File Systems
+     (H) Device drivers
+________________________________________________
+ Kernel                                         |
+                                                |                  
+________________________________________________|
+            |
+            |
+
+1) What's the Heading ?
+-----------------------
+* Kernal 
+                                                                                        
+2) Definition of Kernal ?
+-------------------------
+*
+ 
+3) What is Kernal About ?
+-------------------------
+*
+*
+
+4) What does Kernal Do ?
+------------------------
+*
+*
+
+5) Advantages/Benefits of Kernal :
+----------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Kernal :
+-------------------------------------
+*
+*
+*  
+
+7) Examples of Kernal :
+-----------------------
+*
+*
+__________________________________________________________________________________
+
+(A) \\\\ Program Execution ////
+________________________________________________
+ Program Execution                              |
+                                                |                  
+________________________________________________|
+            |
+            |
+
+1) What's the Heading ?
+-----------------------
+* Program Execution 
+                                                                                        
+2) Definition of Program Execution ?
+------------------------------------
+*
+ 
+3) What is Program Execution About ?
+------------------------------------
+*
+*
+
+4) What does Program Execution Do ?
+-----------------------------------
+*
+*
+
+5) Advantages/Benefits of Program Execution :
+---------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Program Execution :
+------------------------------------------------
+*
+*
+*  
+
+7) Examples of Program Execution :
+----------------------------------
+*
+*
+__________________________________________________________________________________
+
+
+(B) \\\\ Interrupts: ////
+
+         * Software interrupt
+         * Signal
+         * Hardware interrupt :
+           - Interrupt-driven I/O
+           - Direct Memory Access
+           - DMA on the device
+________________________________________________
+ Interrupts                                     |
+                                                |                  
+________________________________________________|
+            |
+            |
+
+1) What's the Heading ?
+-----------------------
+* Interrupts 
+                                                                                        
+2) Definition of Interrupts ?
+-----------------------------
+*
+ 
+3) What is Interrupts About ?
+-----------------------------
+*
+*
+
+4) What does Interrupts Do ?
+----------------------------
+*
+*
+
+5) Advantages/Benefits of Interrupts :
+--------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Interrupts :
+-----------------------------------------
+*
+*
+*  
+
+7) Examples of Interrupts :
+---------------------------
+*
+*
+_________________________________________________________________________________
+
+  \\\\ Software interrupt ////
+________________________________________________
+ Software interrupt                             |
+                                                |                  
+________________________________________________|
+            |
+            |
+
+1) What's the Heading ?
+-----------------------
+* Software interrupt 
+                                                                                        
+2) Definition of Software interrupt ?
+-------------------------------------
+*
+ 
+3) What is Software interrupt About ?
+-------------------------------------
+*
+*
+
+4) What does Software interrupt Do ?
+------------------------------------
+*
+*
+
+5) Advantages/Benefits of Software interrupt :
+----------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Software interrupt :
+-------------------------------------------------
+*
+*
+*  
+
+7) Examples of Software interrupt :
+-----------------------------------
+*
+*
+__________________________________________________________________________________
+
+
+ \\\\ Signal ////
+
+________________________________________________
+ Interrupts                                     |
+                                                |                  
+________________________________________________|
+            |
+            |
+
+1) What's the Heading ?
+-----------------------
+* Interrupts 
+                                                                                        
+2) Definition of Interrupts ?
+-----------------------------
+*
+ 
+3) What is Interrupts About ?
+-----------------------------
+*
+*
+
+4) What does Interrupts Do ?
+----------------------------
+*
+*
+
+5) Advantages/Benefits of Interrupts :
+--------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Interrupts :
+-----------------------------------------
+*
+*
+*  
+
+7) Examples of Interrupts :
+---------------------------
+*
+*
+_________________________________________________________________________________
+
+ \\\\ Hardware interrupt : ////
+________________________________________________
+ Hardware interrupt :                           |
+                                                |                  
+________________________________________________|
+            |
+            |
+
+1) What's the Heading ?
+-----------------------
+* Hardware interrupt : 
+                                                                                        
+2) Definition of Hardware interrupt : ?
+---------------------------------------
+*
+ 
+3) What is Hardware interrupt About ?
+-------------------------------------
+*
+*
+
+4) What does Hardware interrupt Do ?
+------------------------------------
+*
+*
+
+5) Advantages/Benefits of Hardware interrupt :
+----------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Hardware interrupt :
+-------------------------------------------------
+*
+*
+*  
+
+7) Examples of Hardware interrupt :
+-----------------------------------
+*
+*
+__________________________________________________________________________________
+
+
+   \\\\ Interrupt-driven I/O : ////
+________________________________________________
+ Interrupt-driven I/O                           |
+                                                |                  
+________________________________________________|
+            |
+            |
+
+1) What's the Heading ?
+-----------------------
+* Interrupt-driven I/O 
+                                                                                        
+2) Definition of Interrupt-driven I/O ?
+---------------------------------------
+*
+ 
+3) What is Interrupt-driven I/O About ?
+---------------------------------------
+*
+*
+
+4) What does Interrupt-driven I/O Do ?
+--------------------------------------
+*
+*
+
+5) Advantages/Benefits of Interrupt-driven I/O :
+------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Interrupt-driven I/O :
+---------------------------------------------------
+*
+*
+*  
+
+7) Examples of Interrupt-driven I/O :
+-------------------------------------
+*
+*
+_________________________________________________________________________________
+
+ \\\\ Direct Memory Access ////
+________________________________________________
+ Direct Memory Access                           |
+                                                |                  
+________________________________________________|
+            |
+            |
+
+1) What's the Heading ?
+-----------------------
+* Direct Memory Access 
+                                                                                        
+2) Definition of Direct Memory Access ?
+---------------------------------------
+*
+ 
+3) What is Direct Memory Access About ?
+---------------------------------------
+*
+*
+
+4) What does Direct Memory Access Do ?
+--------------------------------------
+*
+*
+
+5) Advantages/Benefits of Direct Memory Access :
+------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Direct Memory Access :
+---------------------------------------------------
+*
+*
+*  
+
+7) Examples of Direct Memory Access :
+-------------------------------------
+*
+*
+__________________________________________________________________________________
+
+
+   \\\\ DMA on the device ////
+________________________________________________
+ DMA on the device                              |
+                                                |                  
+________________________________________________|
+            |
+            |
+
+1) What's the Heading ?
+-----------------------
+* DMA on the device 
+                                                                                        
+2) Definition of DMA on the device ?
+------------------------------------
+*
+ 
+3) What is DMA on the device About ?
+------------------------------------
+*
+*
+
+4) What does DMA on the device Do ?
+-----------------------------------
+*
+*
+
+5) Advantages/Benefits of DMA on the device :
+---------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of DMA on the device :
+------------------------------------------------
+*
+*
+*  
+
+7) Examples of DMA on the device :
+----------------------------------
+*
+*
+_________________________________________________________________________________
+
+
+(C) \\\\ Modes ////
+________________________________________________
+ Modes                                          |
+                                                |                  
+________________________________________________|
+            |
+            |
+
+1) What's the Heading ?
+-----------------------
+* Modes 
+                                                                                        
+2) Definition of Modes ?
+------------------------
+*
+ 
+3) What is Modes About ?
+------------------------
+*
+*
+
+4) What does Modes Do ?
+-----------------------
+*
+*
+
+5) Advantages/Benefits of Modes :
+---------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Modes :
+------------------------------------
+*
+*
+*  
+
+7) Examples of Modes :
+----------------------
+*
+*
+__________________________________________________________________________________
+
+
+(D) \\\\ Memory Management ////
+
+________________________________________________
+ Memory Management                              |
+                                                |                  
+________________________________________________|
+            |
+            |
+
+1) What's the Heading ?
+-----------------------
+* Memory Management 
+                                                                                        
+2) Definition of Memory Management ?
+------------------------------------
+*
+ 
+3) What is Memory Management About ?
+------------------------------------
+*
+*
+
+4) What does Memory Management Do ?
+-----------------------------------
+*
+*
+
+5) Advantages/Benefits of Memory Management :
+---------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Memory Management :
+------------------------------------------------
+*
+*
+*  
+
+7) Examples of Memory Management :
+----------------------------------
+*
+*
+_________________________________________________________________________________
+
+(E) \\\\ Virtual Memory ////
+________________________________________________
+ Virtual Memory                                 |
+                                                |                  
+________________________________________________|
+            |
+            |
+
+1) What's the Heading ?
+-----------------------
+* Virtual Memory 
+                                                                                        
+2) Definition of Virtual Memory ?
+---------------------------------
+*
+ 
+3) What is Virtual Memory About ?
+---------------------------------
+*
+*
+
+4) What does Virtual Memory Do ?
+--------------------------------
+*
+*
+
+5) Advantages/Benefits of Virtual Memory :
+------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Virtual Memory :
+---------------------------------------------
+*
+*
+*  
+
+7) Examples of Virtual Memory :
+-------------------------------
+*
+*
+__________________________________________________________________________________
+
+
+(F)  \\\\ Multitasking ////
+________________________________________________
+ Multitasking                                   |
+                                                |                  
+________________________________________________|
+            |
+            |
+
+1) What's the Heading ?
+-----------------------
+* Multitasking 
+                                                                                        
+2) Definition of Multitasking ?
+-------------------------------
+*
+ 
+3) What is Multitasking About ?
+-------------------------------
+*
+*
+
+4) What does Multitasking Do ?
+------------------------------
+*
+*
+
+5) Advantages/Benefits of Multitasking :
+----------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Multitasking :
+-------------------------------------------
+*
+*
+*  
+
+7) Examples of Multitasking :
+-----------------------------
+*
+*
+_________________________________________________________________________________
+
+(G) \\\\ Disk access and File Systems ////
+________________________________________________
+ Disk access and File Systems                   |
+                                                |                  
+________________________________________________|
+            |
+            |
+
+1) What's the Heading ?
+-----------------------
+* Disk access and File Systems 
+                                                                                        
+2) Definition of Disk access and File Systems ?
+-----------------------------------------------
+*
+ 
+3) What is Disk access and File Systems About ?
+-----------------------------------------------
+*
+*
+
+4) What does Disk access and File Systems Do ?
+----------------------------------------------
+*
+*
+
+5) Advantages/Benefits of Disk access and File Systems :
+--------------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Disk access and File Systems :
+-----------------------------------------------------------
+*
+*
+*  
+
+7) Examples of Disk access and File Systems :
+---------------------------------------------
+*
+*
+__________________________________________________________________________________
+
+
+(H) \\\\ Device drivers ////
+________________________________________________
+ Device drivers                                 |
+                                                |                  
+________________________________________________|
+            |
+            |
+
+1) What's the Heading ?
+-----------------------
+* Device drivers 
+                                                                                        
+2) Definition of Device drivers ?
+---------------------------------
+*
+ 
+3) What is Device drivers About ?
+---------------------------------
+*
+*
+
+4) What does Device drivers Do ?
+--------------------------------
+*
+*
+
+5) Advantages/Benefits of Device drivers :
+------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Device drivers :
+---------------------------------------------
+*
+*
+*  
+
+7) Examples of Device drivers :
+-------------------------------
+*
+*
+_________________________________________________________________________________
+
+  ********* Networking *********
+________________________________________________
+ Networking                                     |
+                                                |                  
+________________________________________________|
+            |
+            |
+
+1) What's the Heading ?
+-----------------------
+* Networking  
+                                                                                        
+2) Definition of Networking ?
+-----------------------------
+*
+ 
+3) What is Networking About ?
+-----------------------------
+*
+*
+
+4) What does Networking Do ?
+----------------------------
+*   
+* 
+
+5) Advantages/Benefits of Networking :
+--------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Networking :
+-----------------------------------------
+*
+*
+*  
+
+7) Examples of Networking :
+---------------------------
+*
+* 
+___________________________________________________________________________
+
+ ******** Security *********
+________________________________________________
+  Security                                      |
+                                                |                  
+________________________________________________|
+            |
+            |
+
+1) What's the Heading ?
+-----------------------
+* Security 
+                                                                                        
+2) Definition of Security ?
+---------------------------
+*
+ 
+3) What is Security About ?
+---------------------------
+*
+*
+
+4) What does Security Do ?
+--------------------------
+*
+*
+
+5) Advantages/Benefits of Security :
+------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Security :
+---------------------------------------
+*
+*
+*  
+
+7) Examples of Security :
+-------------------------
+*
+*
+___________________________________________________________________________________
+
+   ******** User Interface ********
+ 
+    (A) Graphical User Interfaces
+________________________________________________
+ Protection and Security                        |
+                                                |                  
+________________________________________________|
+            |
+            |
+
+1) What's the Heading ?
+-----------------------
+* User Interface 
+                                                                                        
+2) Definition of User Interface ?
+---------------------------------
+*
+ 
+3) What is User Interface About ?
+---------------------------------
+*
+*
+
+4) What does User Interface Do ?
+--------------------------------
+*
+*
+
+5) Advantages/Benefits of User Interface :
+------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of User Interface :
+---------------------------------------------
+*
+*
+*  
+
+7) Examples of User Interface :
+-------------------------------
+*
+*
+__________________________________________________________________________________
+
+(A) \\\\ Graphical User Interfaces ////
+________________________________________________
+ Graphical User Interfaces                      |
+                                                |                  
+________________________________________________|
+            |
+            |
+
+1) What's the Heading ?
+-----------------------
+* Graphical User Interfaces 
+                                                                                        
+2) Definition of Graphical User Interfaces ? 
+--------------------------------------------
+*
+ 
+3) What is Graphical User Interfaces About ?
+--------------------------------------------
+*
+*
+
+4) What does Graphical User Interfaces Do ?
+-------------------------------------------
+*
+*
+
+5) Advantages/Benefits of Graphical User Interfaces:
+----------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Graphical User Interfaces :
+--------------------------------------------------------
+*
+*
+*  
+
+7) Examples of Graphical User Interfaces :
+------------------------------------------
+*
+*
+_________________________________________________________________________________
+
+
+
+15. <<<<<< REAL-TIME OPERATING SYSTEMS >>>>>>>
+________________________________________________
+ Real-time Operating Systems                    |
+                                                |                  
+________________________________________________|
+            |
+            |
+
+1) What's the Heading ?
+-----------------------
+* Real-time Operating Systems 
+                                                                                        
+2) Definition of Real-time Operating Systems ?
+----------------------------------------------
+*
+ 
+3) What is Real-time Operating Systems About ?
+----------------------------------------------
+*
+*
+
+4) What does Real-time Operating Systems Do ?
+---------------------------------------------
+*
+*
+
+5) Advantages/Benefits of Real-time Operating Systems :
+-------------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Real-time Operating Systems :
+----------------------------------------------------------
+*
+*
+*  
+
+7) Examples of Real-time Operating Systems :
+--------------------------------------------
+*
+*
+_______________________________________________________________________________ 
+
+16. <<<<<< OPERATING SYSTEM DEVELOPMENT as a Hobby >>>>>>>
+________________________________________________
+ Operating System Development as a Hobby        |
+                                                |                  
+________________________________________________|
+            |
+            |
+
+1) What's the Heading ?
+-----------------------
+* Operating System Development as a Hobby 
+                                                                                        
+2) Definition of Operating System Development as a Hobby ?
+----------------------------------------------------------
+*
+ 
+3) What is Operating System Development as a Hobby About ?
+----------------------------------------------------------
+*
+*
+
+4) What does Operating System Development as a Hobby Do ?
+---------------------------------------------------------
+*
+*
+
+5) Advantages/Benefits of Operating System Development as a Hobby :
+-------------------------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Operating System Development as a Hobby :
+----------------------------------------------------------------------
+*
+*
+*  
+
+7) Examples of Operating System Development as a Hobby :
+--------------------------------------------------------
+*
+*
+_______________________________________________________________________________ 
+
+17. <<<<<< DIVERSITY of OPERATING SYSTEMS and PORTABILITY >>>>>>>
+________________________________________________
+ Diversity of Operating Systems and Portability |
+                                                |                  
+________________________________________________|
+            |
+            |
+
+1) What's the Heading ?
+-----------------------
+* Diversity of Operating Systems and Portability 
+                                                                                        
+2) Definition of Diversity of Operating Systems and Portability ?
+-----------------------------------------------------------------
+*
+ 
+3) What is Diversity of Operating Systems and Portability About ?
+-----------------------------------------------------------------
+*
+*
+
+4) What does Diversity of Operating Systems and Portability Do ?
+----------------------------------------------------------------
+*
+*
+
+5) Advantages/Benefits of Diversity of Operating Systems and Portability :
+--------------------------------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Diversity of Operating Systems and Portability :
+-----------------------------------------------------------------------------
+*
+*
+*  
+
+7) Examples of Diversity of Operating Systems and Portability :
+---------------------------------------------------------------
+*
+*
+_______________________________________________________________________________
+
+

@@ -1,0 +1,15 @@
+
+   OPERATING SYSTEM : 
+-----------------------------------------------------------------------------------
+
+ 1. Operating System Concepts and their Types
+ 2. Processes
+ 3. Memory management
+ 4. Process Synchronization
+ 5. Job Scheduling and Scheduling algorithms
+ 6. Virtual Memory
+ 7. File Management
+ 8. I/O Hardware
+ 9. Multithreading 
+ 10. Deadlocks
+ 11. Protection and Security 
